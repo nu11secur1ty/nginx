@@ -64,7 +64,7 @@ const CONFIG = {
       },
       {
         name: 'T-Pot-TOPS @ GitHub',
-        link: 'https://github.com/nu11secur1ty/T-Pot',
+        link: 'https://github.com/nu11secur1ty/T-Pot/',
       },
       {
         name: 'T-Pot-TOPS ReadMe',
