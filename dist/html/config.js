@@ -16,10 +16,10 @@ const CONFIG = {
   twelveHourFormat: false,
 
   // Greetings
-  greetingMorning: 'Good morning ☕',
-  greetingAfternoon: 'Good afternoon 🍯',
-  greetingEvening: 'Good evening 😁',
-  greetingNight: 'Go to Sleep 🥱',
+  greetingMorning: 'Good morning from OPSEC☕',
+  greetingAfternoon: 'Good afternoon from OPSEC🍯',
+  greetingEvening: 'Good evening from OPSEC😁',
+  greetingNight: 'Go to Sleep, tomorrow is a big day🥱',
 
   // ┬  ┬┌─┐┌┬┐┌─┐
   // │  │└─┐ │ └─┐
