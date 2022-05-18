@@ -63,12 +63,12 @@ const CONFIG = {
         link: 'https://sicherheitstacho.eu',
       },
       {
-        name: 'T-Pot @ GitHub',
-        link: 'https://github.com/dtag-dev-sec/tpotce/',
+        name: 'T-Pot-TOPS @ GitHub',
+        link: 'https://github.com/nu11secur1ty/T-Pot',
       },
       {
-        name: 'T-Pot ReadMe',
-        link: 'https://github.com/telekom-security/tpotce/blob/master/README.md',
+        name: 'T-Pot-TOPS ReadMe',
+        link: 'https://github.com/nu11secur1ty/T-Pot/blob/master/README.md',
       },      
     ],
   },
