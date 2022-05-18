@@ -1,1 +1,2 @@
 # nginx-T-Pot
+- Latest
